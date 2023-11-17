@@ -1,3 +1,4 @@
 # github-demo
-Leaning about git repositories
+Leaning about git repositories.
+<br>
 Author - Sushmitha
