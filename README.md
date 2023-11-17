@@ -1,4 +1,4 @@
 # github-demo
 Leaning about git repositories.
 <br>
-Author - Sushmitha
+Author - Sushmitha (Technical Writer)
